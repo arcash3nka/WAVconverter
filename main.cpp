@@ -324,6 +324,7 @@ int main(int argc, char* argv[]) {
     }
     
     // комент для проверки
+    // ватафак назафак
 
     closeNcurses();
 }
