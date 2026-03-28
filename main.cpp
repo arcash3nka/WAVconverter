@@ -1,8 +1,3 @@
-/*
-- нужно будет в encodeWAV добавить условия для разных названий файлов
-- в целом доделать эту хуйню с именами
-*/
-
 #include <cstring>
 #include <iostream>
 #include <fstream>
