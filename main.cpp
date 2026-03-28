@@ -1,8 +1,3 @@
-/*
-- нужно будет в encodeWAV добавить условия для разных названий файлов
-- в целом доделать эту хуйню с именами
-*/
-
 #include <cstring>
 #include <iostream>
 #include <fstream>
@@ -322,6 +317,8 @@ int main(int argc, char* argv[]) {
         refresh();
         getch();
     }
-    
+
+    // popi
+
     closeNcurses();
 }
