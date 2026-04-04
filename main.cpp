@@ -317,8 +317,6 @@ int main(int argc, char* argv[]) {
         refresh();
         getch();
     }
-
-    // popi
-
+    
     closeNcurses();
 }
